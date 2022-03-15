@@ -1,0 +1,6 @@
+﻿DB.obj : error LNK2019: _mysql_error@4_DB_connect 함수에서 참조되는 확인할 수 없는 외부 기호
+DB.obj : error LNK2019: _mysql_init@4_DB_connect 함수에서 참조되는 확인할 수 없는 외부 기호
+DB.obj : error LNK2019: _mysql_real_connect@32_DB_connect 함수에서 참조되는 확인할 수 없는 외부 기호
+DB.obj : error LNK2019: _mysql_query@8_DB_connect 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Program Files\MySQL\MySQL Server 8.0\lib\libmysql.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\jiny2\Documents\1905055\C프로그래밍(2)\프로젝트\Project\Debug\Project.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.
